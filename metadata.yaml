@@ -1,0 +1,34 @@
+_repo: The-Yellow-Chief_36603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'South Platte River Valley (Colo. and Neb.) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Wagon trains -- Fiction'
+- !lcsh 'Vicksburg (Miss.) -- Fiction'
+- !lcsh 'California -- Fiction'
+title: The Yellow Chief
+url: http://www.gutenberg.org/ebooks/36603
